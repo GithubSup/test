@@ -1,5 +1,1 @@
-lk;ejgrpwq34tuwienoprjklk;ejgrpwq34tuwienoprjklk;ejgrpwq34tuwienoprjklk;ejgrpwq34tuwienoprjklk;ejgrpwq34tuwienoprjk
-
-
-
-lk;ejgrpwq34tuwienoprjklk;ejgrpwq34tuwienoprjklk;ejgrpwq34tuwienoprjk
+Start-Process calc.exe
